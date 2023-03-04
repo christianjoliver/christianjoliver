@@ -31,4 +31,3 @@
 
 #
 
-![Snake animation](https://github.com/christianjoliver/christianjoliver/blob/output/github-contribution-grid-snake.svg)
