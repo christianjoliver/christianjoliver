@@ -11,6 +11,7 @@
 - ⁉ More about me: https://www.linkedin.com/in/christianjoliver/
 
 #
+
 <!--- STATS -->
 
 <div>
@@ -19,6 +20,7 @@
 </div>
 
 #
+
 <!--- TECHNOLOGIES -->
 
 <div style="display: inline_block"><br>
@@ -31,8 +33,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-    
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> 
 </div>
 
 #
